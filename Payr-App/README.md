@@ -8,7 +8,7 @@ Payr is a mobile money transfer app that lets you send money to friends instantl
 
 <!-- Upload your demo video here -->
 
-https://github.com/user-attachments/assets/your-video-id
+https://github.com/user-attachments/assets/c217a32f-f8f7-4123-86f7-e2886d8c6a5a
 
 ---
 
